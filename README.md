@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## Dataset
 ### Download datasets
-* Images[Google Drive link](https://drive.google.com/drive/folders/1CGEEdfYlp6kuNGK7z8iFe5hFoC2pSAdG?usp=sharing)
+* Images ([Google Drive link](https://drive.google.com/drive/folders/1CGEEdfYlp6kuNGK7z8iFe5hFoC2pSAdG?usp=sharing))
 * Point clouds
 
 
