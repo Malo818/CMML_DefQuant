@@ -29,8 +29,8 @@ pip install -r requirements.txt
 
 ## Dataset
 ### Download datasets
-* [Images](https://drive.google.com/drive/folders/1CGEEdfYlp6kuNGK7z8iFe5hFoC2pSAdG?usp=sharing)
-* [Point clouds]
+* Images[Google Drive link](https://drive.google.com/drive/folders/1CGEEdfYlp6kuNGK7z8iFe5hFoC2pSAdG?usp=sharing)
+* Point clouds
 
 
 ### Dataset structure
@@ -43,7 +43,7 @@ The dataset includes a main folder:
   
   - `images/`: Contains images of airhole defects.
   - `labels/`: Contains segmentation labels of airhole defects.
-  - `depths/`: Contains depth maps of airhole defectss.
+  - `depths/`: Contains depth maps of airhole defects.
 
 
 ## Training and Testing
