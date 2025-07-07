@@ -29,11 +29,11 @@ pip install -r requirements.txt
 
 ## Dataset
 ### Download datasets
-* [IMAGES](http://buildingparser.stanford.edu/dataset.html)
-* [POINT CLOUDS](https://www.cvlibs.net/datasets/kitti/eval_odometry.php)
+* [Images](https://drive.google.com/drive/folders/1CGEEdfYlp6kuNGK7z8iFe5hFoC2pSAdG?usp=sharing)
+* [Point clouds]
 
 
-### Dataset Structure
+### Dataset structure
 
 The dataset includes a main folder:
 
@@ -42,8 +42,8 @@ The dataset includes a main folder:
   This folder contains 3 subfolders:
   
   - `images/`: Contains images of airhole defects.
-  - `depths/`: Contains depth maps of airhole defectss.
   - `labels/`: Contains segmentation labels of airhole defects.
+  - `depths/`: Contains depth maps of airhole defectss.
 
 
 ## Training and Testing
