@@ -1,12 +1,19 @@
 # Cross-modal multitask learning for automated quantitative characterization of infrastructure airhole defects
 
-![The cross-modal multitask learning framework](images/network.png)
+<p align="center">
+  <img src="images/network.png" alt="Sample Image" width="600"/>
+</p>
+
+<p align="center">
+  The cross-modal multitask learning framework.
+</p>
+
 
 This framework addresses the quantitative characterization of apparent quality defects in infrastructure by proposing a novel cross-modal multitask learning network. It effectively integrates the strengths of image-based defect detection and point cloud-based measurement. Defect pixels identified in images are precisely mapped to their corresponding 3D coordinates in the point cloud through dense feature matching. Leveraging prior knowledge of defect properties, a tailored measurement strategy is developed to accurately quantify the area and volume of defects. Extensive experiments demonstrate the framework’s effectiveness in detection, matching, and measurement tasks, providing strong technical support for the quantitative assessment of infrastructure defects.
 
 **Updates**
 - Jul 7, 2025: Release image datasets
-- Jul 1, 2025: Initial commit
+- Jul 7, 2025: Initial commit
 
 
 ## Requirements
